@@ -15,7 +15,8 @@ The progress tracking goes here, the accountability comes from the fact that I'v
 
 
 ### 2/5/2024
-| Game Type                  | Rating         | Wins     | Draws    | Losses   |
+
+|Game Type                   | Rating         | Wins     | Draws    | Losses   |
 |:---------------------------|:--------------:|:--------:|:--------:|:--------:|
 |Bullet                      | 643            | 291      | 19       | 307      |
 |Blitz                       | 834            | 471      | 40       | 467      |
