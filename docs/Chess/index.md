@@ -5,6 +5,12 @@ nav_order: 2
 has_children: true
 ---
 
+# Ships
+{: .no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
 A Chess Blog? Seems strange coming from a security person. Especially one that doesn't keep up with the regular blog, but here we are. I'm really exploring chess for the second time in my life (the first was last year) and I'm quickly improving. I think I could improve more with some direction and some accountability. This isn't going to bring either of those things, but I would like to write some of my thoughts out somewhere and here seems like a good place to do it.
 
 [Chess.com Account](https://www.chess.com/member/mythicstack)
