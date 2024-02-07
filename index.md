@@ -6,7 +6,6 @@ nav_order: 1
 
 # Adventures In Cybersecurity
 
-This all spawned because I decided to add "Blog" to my [Idea List](https://www.github.com/MythicStack/Idea-Guy).
 
 ---
 
