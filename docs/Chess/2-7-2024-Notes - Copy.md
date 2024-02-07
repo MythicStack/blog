@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2/6/2024 - Notes
+title: 2/7/2024 - Notes
 nav_order: 2
 parent: Chess
 ---
@@ -23,8 +23,8 @@ Ne4 bxc3 27. bxc3) 1-0
 
 Testing an Integrated Chessboard. No clue if it'll work:
 
-<link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.jss">
-<script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+<link rel="stylesheet" href="js/chessboard-1.0.0.min.js">
+<script src="js/chessboard-1.0.0.min.js"></script>
 
 <div id="board" style="width: 400px"></div>
 
