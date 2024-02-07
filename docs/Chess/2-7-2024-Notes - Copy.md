@@ -23,8 +23,11 @@ Ne4 bxc3 27. bxc3) 1-0
 
 Testing an Integrated Chessboard. No clue if it'll work:
 
-```chess
-fen: r1bqkbnr/pppp1ppp/2nS/1B2p3/4P3/5N2/PPPP1PPP/RNBK2R b KQKq - 3 3
-lastMove: f1 b5
-arrows: b5->c6 f3->e5
-```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/chessboardjs@1.0.0/dist/chessboard.min.css">
+<script src="https://cdn.jsdelivr.net/npm/chessboardjs@1.0.0/dist/chessboard.min.js"></script>
+
+<div id="board" style="width: 400px"></div>
+
+<script>
+  var board = Chessboard('board', 'start');
+</script>
